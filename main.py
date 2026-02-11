@@ -3,7 +3,7 @@ from discord.ext import commands
 import asyncio
 import datetime
 
-TOKEN = "MTQ2Njc4Njc4MDAwNjA1NjE1NQ.GezM5x.wkVRXBw33CYmupqJvnpVD9R9BlWWID0ijSXPe0"
+TOKEN = "MTQ3MTA5NDQ1MTIxNTc5ODM3Ng.GLa92g.WqZfkHPvVcgunFadlkNE_8rHmHjXBly3RsWOjg" 
 
 RATE = 4300
 MIN_AMOUNT = 10
@@ -145,3 +145,4 @@ async def on_ready():
     print("✅ Bot online | Ticket + Legit gotowe")
 
 bot.run(TOKEN)
+
